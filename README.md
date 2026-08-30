@@ -178,6 +178,15 @@ Embedded systems, electronics, 8-bit computers, and punk rock music enthusiast.
   <img src="./assets/https.png" height="30" title="HTTPS" alt="HTTPS" />
 </p>
 
+#### 🛠️ PCB Design & Hardware
+
+<p align="left">
+  <img src="./assets/eagle.jpg" height="30" title="Autodesk EAGLE" alt="Autodesk EAGLE" />
+  <img src="./assets/altium.png" height="30" title="Altium Designer" alt="Altium Designer" />
+  <img src="./assets/proteus.bmp" height="30" title="Proteus" alt="Proteus" />
+  <img src="./assets/ltspice.bmp" height="30" title="LTSpice" alt="LTSpice" />
+</p>
+
 ---
 
 ### 📦 Public Repositories
