@@ -102,76 +102,81 @@ Embedded systems, electronics, 8-bit computers, and punk rock music enthusiast.
 
 ---
 
-
-
 ### 💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="30" title="C" alt="C" /> 
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" title="C++" alt="C++" /> 
-  <img src="https://skillicons.dev/icons?i=cs" height="30" title="C#" alt="C#" /> 
-  <img src="https://skillicons.dev/icons?i=py" height="30" title="Python" alt="Python" /> 
-  <img src="https://cdn.simpleicons.org/arm" height="30" title="ARM Assembly" alt="ARM Assembly" />
+  <img src="./assets/c.svg" height="30" title="C" alt="C" />
+  <img src="./assets/cpp.svg" height="30" title="C++" alt="C++" />
+  <img src="./assets/csharp.svg" height="30" title="C#" alt="C#" />
+  <img src="./assets/python.svg" height="30" title="Python" alt="Python" />
+  <img src="./assets/arm.svg" height="30" title="ARM Assembly" alt="ARM Assembly" />
+  <img src="./assets/atari.png" height="30" title="ATARI BASIC" alt="ATARI BASIC" />
 </p>
 
 ### ⚙️ MCUs & Architectures
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Atmel_AVR_%28logo%29.png" height="30" title="AVR" alt="AVR" />
-  <img src="https://cdn.simpleicons.org/arm" height="30" title="ARM / Cortex-M" alt="ARM" />
-  <img src="https://cdn.simpleicons.org/stmicroelectronics" height="30" title="STM32" alt="STM32" />
-  <img src="https://raw.githubusercontent.com/nordicsemi/IOS-nRF-Connect-Device-Manager/main/nRF52-Series-small.png" height="32" title="nRF52 Series" alt="nRF52 Series" />
-  <img src="https://raw.githubusercontent.com/nordicsemi/IOS-nRF-Connect-Device-Manager/main/nRF54-Series-small.png" height="32" title="nRF54 Series" alt="nRF54 Series" />
-  <img src="https://raw.githubusercontent.com/nordicsemi/IOS-nRF-Connect-Device-Manager/main/nRF91-Series-small.png" height="32" title="nRF91 Series" alt="nRF91 Series" />
+  <img src="./assets/avr.png" height="30" title="AVR" alt="AVR" />
+  <img src="./assets/arm.svg" height="30" title="ARM / Cortex-M" alt="ARM" />
+  <img src="./assets/stmicroelectronics.svg" height="30" title="STM32" alt="STM32" />
+  <img src="./assets/nrf52.png" height="32" title="nRF52 Series" alt="nRF52 Series" />
+  <img src="./assets/nrf54.png" height="32" title="nRF54 Series" alt="nRF54 Series" />
+  <img src="./assets/nrf91.png" height="32" title="nRF91 Series" alt="nRF91 Series" />
 </p>
 
 ### 🧠 RTOS, SDKs & Firmware
 
 <p align="left">
-  <img src="https://github.com/FreeRTOS.png?size=64" height="30" title="FreeRTOS" alt="FreeRTOS" /> 
-  <img src="https://raw.githubusercontent.com/zephyrproject-rtos/zephyr/main/doc/_static/images/logo.svg" height="30" title="Zephyr RTOS" alt="Zephyr RTOS" />
-  <img src="https://cdn.forbot.pl/blog/wp-content/uploads/2016/03/cube_stm32-300x285.png" height="30" title="STM32Cube / HAL" alt="STM32Cube HAL" />
-  <img src="https://www.nordicsemi.com/-/media/Images/Products/SDKs/nRF5-SDK.png" height="30" title="nRF5 SDK" alt="nRF5 SDK" />
-  <img src="https://github.com/nrfconnect.png?size=64" height="30" title="nRF Connect SDK" alt="nRF Connect SDK" />
-  <img src="https://github.com/nordicsemi.png?size=64" height="30" title="nrfx" alt="nrfx" />
-  <img src="https://github.com/TrustedFirmware-M.png?size=64" height="30" title="Trusted Firmware-M" alt="Trusted Firmware-M" />
-  <img src="https://github.com/mcu-tools.png?size=64" height="30" title="MCUboot" alt="MCUboot" /> 
-  <img src="https://github.com/Mbed-TLS.png?size=64" height="30" title="Mbed TLS" alt="Mbed TLS" />
-</p>
-
-### 🌳 Zephyr Ecosystem
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux" height="30" title="Kconfig" alt="Kconfig" />
-  <img src="https://github.com/devicetree-org.png?size=64" height="30" title="Devicetree" alt="Devicetree" />
-  <img src="https://github.com/zephyrproject-rtos.png?size=64" height="30" title="west" alt="west" />
+  <img src="./assets/freertos.png" height="30" title="FreeRTOS" alt="FreeRTOS" />
+  <img src="./assets/zephyr.svg" height="30" title="Zephyr RTOS" alt="Zephyr RTOS" />
+  <img src="./assets/devicetree.png" height="30" title="Devicetree" alt="Devicetree" />
+  <img src="./assets/stm32cube.png" height="30" title="STM32Cube / HAL" alt="STM32Cube HAL" />
+  <img src="./assets/nrf5-sdk.png" height="30" title="nRF5 SDK" alt="nRF5 SDK" />
+  <img src="./assets/nrf-connect-sdk.png" height="30" title="nRF Connect SDK" alt="nRF Connect SDK" />
+  <img src="./assets/mcuboot.png" height="30" title="MCUboot" alt="MCUboot" />
+  <img src="./assets/mbed-tls.png" height="30" title="Mbed TLS" alt="Mbed TLS" />
 </p>
 
 ### 🔧 Debugging & Development
 
 <p align="left">
-  <img src="https://github.com/SEGGERMicro.png?size=64" height="30" title="SEGGER J-Link" alt="SEGGER J-Link" /> 
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" title="Visual Studio Code" alt="Visual Studio Code" /> 
-  <img src="https://skillicons.dev/icons?i=linux" height="30" title="Linux" alt="Linux" /> 
-  <img src="https://skillicons.dev/icons?i=bash" height="30" title="Bash" alt="Bash" />
+  <img src="./assets/vscode.svg" height="30" title="Visual Studio Code" alt="Visual Studio Code" />
+  <img src="./assets/segger-jlink.png" height="30" title="SEGGER J-Link" alt="SEGGER J-Link" />
+  <img src="./assets/bash.svg" height="30" title="Bash" alt="Bash" />
 </p>
+
+### 🧪 Testing & Validation
+
+<p align="left">
+  <img src="./assets/unity.png" height="30" title="Unity" alt="Visual Studio Code" />
+  <img src="./assets/catch2.png" height="30" title="Catch2" alt="Catch2" />
+  <img src="./assets/gtest.png" height="30" title="GTest" alt="GTest" />
+  <img src="./assets/behave.png" height="30" title="Behave" alt="Behave" />
+</p>
+
 
 ### 🏗️ Build, Version Control & CI
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cmake" height="30" title="CMake" alt="CMake" /> 
-  <img src="https://skillicons.dev/icons?i=git" height="30" title="Git" alt="Git" /> 
-  <img src="https://skillicons.dev/icons?i=github" height="30" title="GitHub" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="30" title="GitLab" alt="GitLab" /> 
-  <img src="https://cdn.simpleicons.org/gerrit" height="30" title="Gerrit" alt="Gerrit" /> 
-  <img src="https://skillicons.dev/icons?i=jenkins" height="30" title="Jenkins" alt="Jenkins" />
+  <img src="./assets/cmake.svg" height="30" title="CMake" alt="CMake" />
+  <img src="./assets/ninja.jpg" height="30" title="Ninja" alt="Ninja" />
+  <img src="./assets/gcc.svg" height="30" title="GCC" alt="GCC" />
+  <img src="./assets/git.svg" height="30" title="Git" alt="Git" />
+  <img src="./assets/github.svg" height="30" title="GitHub" alt="GitHub" />
+  <img src="./assets/gitlab.svg" height="30" title="GitLab" alt="GitLab" />
+  <img src="./assets/gerrit.svg" height="30" title="Gerrit" alt="Gerrit" />
+  <img src="./assets/jenkins.svg" height="30" title="Jenkins" alt="Jenkins" />
 </p>
 
 ### 📡 Connectivity & Protocols
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/bluetooth" height="30" title="Bluetooth Low Energy" alt="Bluetooth Low Energy" /> 
-  <img src="https://cdn.simpleicons.org/mqtt" height="30" title="MQTT" alt="MQTT" />
+  <img src="./assets/bluetooth.svg" height="30" title="Bluetooth Low Energy" alt="Bluetooth Low Energy" />
+  <img src="./assets/ltem.png" height="30" title="LTEM" alt="LTEM" />
+  <img src="./assets/wifi.png" height="30" title="WIFI" alt="WIFI" />
+  <img src="./assets/mqtt.svg" height="30" title="MQTT" alt="MQTT" />
+  <img src="./assets/coap.png" height="30" title="CoAP" alt="CoAP" />
+  <img src="./assets/https.png" height="30" title="HTTPS" alt="HTTPS" />
 </p>
 
 ---
