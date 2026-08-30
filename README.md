@@ -115,12 +115,12 @@ Embedded systems, electronics, 8-bit computers, and punk rock music enthusiast.
 #### ⚙️ MCUs & Architectures
 
 <p align="left">
-  <img src="./assets/avr.png" height="30" title="AVR" alt="AVR" />
-  <img src="./assets/arm.svg" height="30" title="ARM / Cortex-M" alt="ARM" />
-  <img src="./assets/stmicroelectronics.svg" height="30" title="STM32" alt="STM32" />
-  <img src="./assets/nrf52.png" height="32" title="nRF52 Series" alt="nRF52 Series" />
-  <img src="./assets/nrf54.png" height="32" title="nRF54 Series" alt="nRF54 Series" />
-  <img src="./assets/nrf91.png" height="32" title="nRF91 Series" alt="nRF91 Series" />
+  <img src="./assets/avr.bmp" height="30" title="AVR" alt="AVR" />
+  <img src="./assets/arm.bmp" height="30" title="ARM / Cortex-M" alt="ARM" />
+  <img src="./assets/stmicroelectronics.bmp" height="30" title="STM32" alt="STM32" />
+  <img src="./assets/nrf52.bmp" height="32" title="nRF52 Series" alt="nRF52 Series" />
+  <img src="./assets/nrf54.bmp" height="32" title="nRF54 Series" alt="nRF54 Series" />
+  <img src="./assets/nrf91.bmp" height="32" title="nRF91 Series" alt="nRF91 Series" />
 </p>
 
 #### 🧠 RTOS, SDKs & Firmware
@@ -128,7 +128,7 @@ Embedded systems, electronics, 8-bit computers, and punk rock music enthusiast.
 <p align="left">
   <img src="./assets/freertos.png" height="30" title="FreeRTOS" alt="FreeRTOS" />
   <img src="./assets/zephyr.svg" height="30" title="Zephyr RTOS" alt="Zephyr RTOS" />
-  <img src="./assets/devicetree.png" height="30" title="Devicetree" alt="Devicetree" />
+  <img src="./assets/devicetree.bmp" height="30" title="Devicetree" alt="Devicetree" />
   <img src="./assets/stm32cube.png" height="30" title="STM32Cube / HAL" alt="STM32Cube HAL" />
   <img src="./assets/nrf5-sdk.png" height="30" title="nRF5 SDK" alt="nRF5 SDK" />
   <img src="./assets/nrf-connect-sdk.png" height="30" title="nRF Connect SDK" alt="nRF Connect SDK" />
@@ -148,7 +148,7 @@ Embedded systems, electronics, 8-bit computers, and punk rock music enthusiast.
 
 <p align="left">
   <img src="./assets/unity.png" height="30" title="Unity" alt="Visual Studio Code" />
-  <img src="./assets/catch2.png" height="30" title="Catch2" alt="Catch2" />
+  <img src="./assets/catch2.bmp" height="30" title="Catch2" alt="Catch2" />
   <img src="./assets/gtest.png" height="30" title="GTest" alt="GTest" />
   <img src="./assets/behave.png" height="30" title="Behave" alt="Behave" />
 </p>
