@@ -86,8 +86,6 @@
   <a href="https://open.spotify.com/artist/04Vyrl9r3Uu6tTXQ1hwDWn?si=7W6GwTGnT5SQlQIdi-i4hQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="nic-waznego" height="30" width="40" /></a>
 </p>
 
----
-
 <!--
 ## Hi there 👋
 
@@ -96,13 +94,14 @@
 Here are some ideas to get you started:
 -->
 
+---
+
 ### 🧑‍💻 About me
 
 Embedded systems, electronics, 8-bit computers, and punk rock music enthusiast.
 
----
 
-### 💻 Languages
+#### 💻 Languages
 
 <p align="left">
   <img src="./assets/c.svg" height="30" title="C" alt="C" />
@@ -113,7 +112,7 @@ Embedded systems, electronics, 8-bit computers, and punk rock music enthusiast.
   <img src="./assets/atari.png" height="30" title="ATARI BASIC" alt="ATARI BASIC" />
 </p>
 
-### ⚙️ MCUs & Architectures
+#### ⚙️ MCUs & Architectures
 
 <p align="left">
   <img src="./assets/avr.png" height="30" title="AVR" alt="AVR" />
@@ -124,7 +123,7 @@ Embedded systems, electronics, 8-bit computers, and punk rock music enthusiast.
   <img src="./assets/nrf91.png" height="32" title="nRF91 Series" alt="nRF91 Series" />
 </p>
 
-### 🧠 RTOS, SDKs & Firmware
+#### 🧠 RTOS, SDKs & Firmware
 
 <p align="left">
   <img src="./assets/freertos.png" height="30" title="FreeRTOS" alt="FreeRTOS" />
@@ -137,7 +136,7 @@ Embedded systems, electronics, 8-bit computers, and punk rock music enthusiast.
   <img src="./assets/mbed-tls.png" height="30" title="Mbed TLS" alt="Mbed TLS" />
 </p>
 
-### 🔧 Debugging & Development
+#### 🔧 Debugging & Development
 
 <p align="left">
   <img src="./assets/vscode.svg" height="30" title="Visual Studio Code" alt="Visual Studio Code" />
@@ -145,7 +144,7 @@ Embedded systems, electronics, 8-bit computers, and punk rock music enthusiast.
   <img src="./assets/bash.svg" height="30" title="Bash" alt="Bash" />
 </p>
 
-### 🧪 Testing & Validation
+#### 🧪 Testing & Validation
 
 <p align="left">
   <img src="./assets/unity.png" height="30" title="Unity" alt="Visual Studio Code" />
@@ -155,7 +154,7 @@ Embedded systems, electronics, 8-bit computers, and punk rock music enthusiast.
 </p>
 
 
-### 🏗️ Build, Version Control & CI
+#### 🏗️ Build, Version Control & CI
 
 <p align="left">
   <img src="./assets/cmake.svg" height="30" title="CMake" alt="CMake" />
@@ -168,7 +167,7 @@ Embedded systems, electronics, 8-bit computers, and punk rock music enthusiast.
   <img src="./assets/jenkins.svg" height="30" title="Jenkins" alt="Jenkins" />
 </p>
 
-### 📡 Connectivity & Protocols
+#### 📡 Connectivity & Protocols
 
 <p align="left">
   <img src="./assets/bluetooth.svg" height="30" title="Bluetooth Low Energy" alt="Bluetooth Low Energy" />
