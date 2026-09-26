@@ -185,6 +185,7 @@ Embedded systems, electronics, 8-bit computers, and punk rock music enthusiast.
   <img src="./assets/altium.png" height="30" title="Altium Designer" alt="Altium Designer" />
   <img src="./assets/proteus.bmp" height="30" title="Proteus" alt="Proteus" />
   <img src="./assets/ltspice.bmp" height="30" title="LTSpice" alt="LTSpice" />
+  <img src="./assets/vhdl.png" height="30" title="VHDL" alt="VHDL" />
 </p>
 
 ---
@@ -200,4 +201,5 @@ Embedded systems, electronics, 8-bit computers, and punk rock music enthusiast.
   <a href="https://github.com/mlokcewicz/dcf77-clock"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mlokcewicz&repo=dcf77-clock&theme=github_dark&hide_border=true&show_icons=false" alt="dcf77-clock"></a>
   <a href="https://github.com/mlokcewicz/dcf77-clock-pcb"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mlokcewicz&repo=dcf77-clock-pcb&theme=github_dark&hide_border=true&show_icons=false" alt="dcf77-clock-pcb"></a>
   <a href="https://github.com/mlokcewicz/dcf77-transmiter-hantek-6074bd"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mlokcewicz&repo=dcf77-transmiter-hantek-6074bd&theme=github_dark&hide_border=true&show_icons=false" alt="dcf77-transmiter-hantek-6074bd"></a>
+  <a href="https://github.com/mlokcewicz/spartan-3-vga-controller"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mlokcewicz&repo=spartan-3-vga-controller&theme=github_dark&hide_border=true&show_icons=false" alt="spartan-3-vga-controller"></a>
 </p>
